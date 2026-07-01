@@ -1,0 +1,378 @@
+canonical_identifier: bkk:krp/KR6q0173/X/v1
+canonical_location: https://kanripo.org/bkk/KR6q0173/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 千松筆記
+  identifiers:
+    krp: KR6q0173
+    cbeta: X65n1287
+    cbeta_old_id: X65n1287
+    authorityid: CA0002561
+    json_key: X1287
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X65/X65n1287.xml
+    old_id: X65n1287
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0173_000-X.yaml, hash: 'sha256:2dea285fa2c2a0a21acc6ed8831628097170b5385dceb454aa7152e675568401'}
+  - {seq: 1, filename: KR6q0173_001-X.yaml, hash: 'sha256:1ef1f4d563de1ac6be6f26944960f5caad35e3549cf4b117848d962781d057ab'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0173_000-X.markers.yaml, hash: 'sha256:50d0819003b44b195e5a418060400bbb19b17b71853e6e535ba24ac0a082e915'}
+  - {seq: 1, role: markers, filename: assets/KR6q0173_001-X.markers.yaml, hash: 'sha256:d0138da06c6bc8ce3615f45cd26444d2721a8a7a2d4cce27f64b06dd6be6253e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0173_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1287-A 千松筆記序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 9058
+  label: 千松筆記
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 前言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-2
+    span:
+    - body
+    - 574
+    - 574
+  label: 禪宗合論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-3
+    span:
+    - body
+    - 3825
+    - 3825
+  label: 楞嚴擊節
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-4
+    span:
+    - body
+    - 6042
+    - 6042
+  label: 化柴煑茶
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-5
+    span:
+    - body
+    - 6144
+    - 6144
+  label: 化燈油
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-6
+    span:
+    - body
+    - 6249
+    - 6249
+  label: 祛虫
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-7
+    span:
+    - body
+    - 6456
+    - 6456
+  label: 薦親
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-8
+    span:
+    - body
+    - 6593
+    - 6593
+  label: 資福寺妙宗下火
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-9
+    span:
+    - body
+    - 6744
+    - 6744
+  label: 與楞嚴寺性菴下火
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-10
+    span:
+    - body
+    - 6847
+    - 6847
+  label: 偈讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-11
+    span:
+    - body
+    - 6855
+    - 6855
+  label: 彌勒像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-12
+    span:
+    - body
+    - 6906
+    - 6906
+  label: 觀音像
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-13
+    span:
+    - body
+    - 6949
+    - 6949
+  label: 達磨像
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-14
+    span:
+    - body
+    - 7003
+    - 7003
+  label: 普賢讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-15
+    span:
+    - body
+    - 7048
+    - 7048
+  label: 題楞嚴寺中峰祖師遺笠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-16
+    span:
+    - body
+    - 7114
+    - 7114
+  label: 密藏師遺笠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-17
+    span:
+    - body
+    - 7173
+    - 7173
+  label: 輓蓮渠師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-18
+    span:
+    - body
+    - 7205
+    - 7205
+  label: 與畵工陳居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-19
+    span:
+    - body
+    - 7231
+    - 7231
+  label: 十二時歌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-20
+    span:
+    - body
+    - 7847
+    - 7847
+  label: 除夕楊塢
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-21
+    span:
+    - body
+    - 8087
+    - 8087
+  label: 西方詠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-22
+    span:
+    - body
+    - 8146
+    - 8146
+  label: 戊辰初度
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-23
+    span:
+    - body
+    - 8333
+    - 8333
+  label: 歲朝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-24
+    span:
+    - body
+    - 8391
+    - 8391
+  label: 看梅四首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-25
+    span:
+    - body
+    - 8510
+    - 8510
+  label: 山行道中
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-26
+    span:
+    - body
+    - 8598
+    - 8598
+  label: 病中行脚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-27
+    span:
+    - body
+    - 8714
+    - 8714
+  label: 送監寺東遊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-28
+    span:
+    - body
+    - 8747
+    - 8747
+  label: 舟行苕上
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-29
+    span:
+    - body
+    - 8779
+    - 8779
+  label: 牧牛詞
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-30
+    span:
+    - body
+    - 8877
+    - 8877
+  label: 雪中行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-31
+    span:
+    - body
+    - 8908
+    - 8908
+  label: 登弁山頂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-32
+    span:
+    - body
+    - 8940
+    - 8940
+  label: 秋日懷題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0173_X_001-mulu-33
+    span:
+    - body
+    - 9000
+    - 9000
+  label: 即事
+  type: mulu
+  level: 1
+hash: sha256:c079feeba3c3da62c9fd85be9eca465e5da1d9bfe54d2f5c78302e996dc76f1f
