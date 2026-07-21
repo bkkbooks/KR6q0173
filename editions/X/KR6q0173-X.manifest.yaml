@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0173_000-X.yaml, hash: 'sha256:2dea285fa2c2a0a21acc6ed8831628097170b5385dceb454aa7152e675568401'}
+  - {seq: 0, filename: KR6q0173_000-X.yaml, hash: 'sha256:f83838fcde592801eef5f78ff79539e142ea3c78d2f2f5ab4063d4df82d4ad83'}
   - {seq: 1, filename: KR6q0173_001-X.yaml, hash: 'sha256:1ef1f4d563de1ac6be6f26944960f5caad35e3549cf4b117848d962781d057ab'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0173_000-X.markers.yaml, hash: 'sha256:50d0819003b44b195e5a418060400bbb19b17b71853e6e535ba24ac0a082e915'}
+  - {seq: 0, role: markers, filename: assets/KR6q0173_000-X.markers.yaml, hash: 'sha256:3518fa9f370b5299294332d18d9c7583ba932cf8fcfd7fbe7ce4fef2a879885c'}
   - {seq: 1, role: markers, filename: assets/KR6q0173_001-X.markers.yaml, hash: 'sha256:d0138da06c6bc8ce3615f45cd26444d2721a8a7a2d4cce27f64b06dd6be6253e'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0173_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1287-A 千松筆記序
@@ -375,4 +375,4 @@ table_of_contents:
   label: 即事
   type: mulu
   level: 1
-hash: sha256:c079feeba3c3da62c9fd85be9eca465e5da1d9bfe54d2f5c78302e996dc76f1f
+hash: sha256:7c132691e6091113d3131a6988ba2e7b3a9b625b25f3c3b6320d6cf52a1f7012
